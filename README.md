@@ -13,6 +13,7 @@
 *MENTOR* :- NEELA SANTHOSH KUMAR
 
 ##Description
+
 What is Automated Report Generation?
 Automated Report Generation refers to the process of automatically creating structured reports using data from various sources without manual effort. In this project, we used Python to collect, process, and generate reports in formats like PDF.
 The main goal is to reduce human effort, save time, and generate consistent, professional reports based on real-time or stored data.
@@ -40,3 +41,10 @@ Outcome:
 The result is a professional, auto-generated report that includes data summaries and insights — all created with minimal manual input. This is useful for business analytics, weekly/monthly summaries, calculating percentage of different students and data-driven decision-making.
 
 Platform Used :- Visual Studio Code
+
+
+##OUTPUT:-
+
+[marks.csv](https://github.com/user-attachments/files/19825808/marks.csv)
+[Student_Report.pdf](https://github.com/user-attachments/files/19825807/Student_Report.pdf)
+#O
